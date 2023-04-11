@@ -17,7 +17,8 @@
 }
 
 body {
-	background: url('http://www.demo.amitjakhu.com/login-form/images/bg.png');
+	
+    background-image: radial-gradient(circle at -19.64% 37.72%, #0094b9 0, #007493 25%, #0a536b 50%, #133544 75%, #0f1b23 100%);
 	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
 	font-weight:300;
 	text-align: left;
